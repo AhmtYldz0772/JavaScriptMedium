@@ -1,0 +1,9 @@
+body{
+    font-family: 'Lora', serif;
+}
+.bg-yellow{
+    background-color: #FFc017;
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41,41,1);
+}
